@@ -1,0 +1,6 @@
+os
+openai
+wandb
+speech_recognition
+pyaudio
+gTTS pyttsx3 playsound
